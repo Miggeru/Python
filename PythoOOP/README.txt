@@ -1,0 +1,1 @@
+List of exercises, with the intention of learning more about Python and OOP using Python.
