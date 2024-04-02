@@ -1,4 +1,4 @@
-#Trying to use input with OPP
+#Trying to use input with OOP
 
 import self
 
