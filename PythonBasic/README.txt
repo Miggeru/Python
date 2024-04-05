@@ -1,0 +1,1 @@
+This is a list of basic Python exercises I've been doing, to improve my ability with this language.
